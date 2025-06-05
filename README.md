@@ -12,6 +12,7 @@ A simple React Native Task Manager built with Expo
 - **Expo CLI** (for development and testing)
 
 ## Getting Started
+Instructions for setting up and running the app
   ```bash
   git clone https://github.com/YourUsername/react-native-task-manager.git
   cd react-native-task-manager
@@ -23,4 +24,4 @@ A simple React Native Task Manager built with Expo
 - expo, react, react-native
 
 ## License & Acknowledgements
-This project was built as part of a technical screen for StartChapterOne.
+This project was built as part of a technical screen for ChapterOne.
